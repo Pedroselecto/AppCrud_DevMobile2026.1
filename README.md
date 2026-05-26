@@ -22,3 +22,12 @@ O aplicativo realiza todas as operações básicas de um sistema (CRUD):
 * **Kotlin:** Linguagem principal de desenvolvimento.
 * **StateFlow & Coroutines:** Gerenciamento de estados e execução de chamadas em background sem travar a interface do usuário.
 * **Retrofit & Gson:** Cliente HTTP moderno para realizar as requisições à API e converter as respostas JSON em objetos Kotlin.
+
+--
+
+## Foto do protótipo
+<img width="383" height="797" alt="print-prototipo" src="https://github.com/user-attachments/assets/4da62897-bb10-42d7-abcb-b3407e5292ff" />
+
+A interface é atualizada constantemente mostrando a lista de produtos e seus respectivos dados;
+Preencher as informações e selecionar a opção "Salvar no Banco" adiciona o item no banco;
+O botão de deletar remove o item do banco. 
